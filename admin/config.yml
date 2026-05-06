@@ -6,11 +6,13 @@ media_folder: "images"
 public_folder: "/images"
 
 collections:
-  - name: "pages"
-    label: "Seiten"
+  - name: "home"
+    label: "Startseite"
     files:
-      - file: "index.html"
-        label: "Startseite"
+      - file: "content/home.md"
+        label: "Startseite Inhalt"
         name: "home"
         fields:
-          - { label: "Inhalt", name: "body", widget: "text" }
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Untertitel", name: "subtitle", widget: "string" }
+          - { label: "Text", name: "body", widget: "markdown" }
