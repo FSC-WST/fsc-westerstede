@@ -1,7 +1,12 @@
 ---
-title: "Projekt Plattform"
-subtitle: "Zentrale Lösung für Organisation und Kommunikation"
+title: "Fallschirmsport-Club Westerstede e.V."
+subtitle: "Springen. Gemeinschaft. Organisation."
 ---
 
-Willkommen auf unserer Plattform.
-Hier organisieren wir alles rund um unseren Verein.
+Willkommen beim FSC Westerstede.
+
+Hier organisieren wir:
+- Sprungtage
+- Events
+- Mitgliederkommunikation
+- Dokumente & Videos
